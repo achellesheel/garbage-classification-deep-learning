@@ -1,0 +1,5 @@
+{
+  "model_key": "efficientnetb0",
+  "macro_f1": 0.9022919822794916,
+  "accuracy": 0.903694730466384
+}
