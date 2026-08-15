@@ -1,4 +1,5 @@
 tensorflow==2.16.2
+keras==3.10.0
 streamlit==1.50.0
 scikit-learn==1.6.1
 pandas==2.3.3
